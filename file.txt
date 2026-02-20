@@ -1,2 +1,2 @@
-Hello Git
+Hello from FEATURE branch
 Feature code
